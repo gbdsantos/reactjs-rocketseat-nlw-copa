@@ -1,34 +1,58 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+<h1 align="center">
+  <img src="./assets/logo-next-level-week-copa.svg" width="400" alt="Logo Next Level Week 10 edition">
+</h1>
 
-## Getting Started
+<h4 align="center">
+  <img src="./assets/rocketseat-logo-ignite.svg" height="48" alt="Logo Ignite"><br> Ignite Path
+</h4>
 
-First, run the development server:
+<p align="center">
+  <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/gbdsantos/reactjs-rocketseat-nlw-copa.svg">
 
-```bash
+  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/gbdsantos/reactjs-rocketseat-nlw-copa.svg">
+
+  <img alt="Repository size" src="https://img.shields.io/github/repo-size/gbdsantos/reactjs-rocketseat-nlw-copa.svg">
+
+  <a href="https://github.com/gbdsantos/reactjs-rocketseat-nlw-copa/commits/master">
+    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/gbdsantos/reactjs-rocketseat-nlw-copa.svg">
+  </a>
+
+
+  <a href="https://github.com/lukemorales/rocketshoes-reactjs/issues">
+    <img alt="Repository issues" src="https://img.shields.io/github/issues/gbdsantos/reactjs-rocketseat-nlw-copa.svg">
+  </a>
+
+  <img alt="GitHub" src="https://img.shields.io/github/license/gbdsantos/reactjs-rocketseat-nlw-copa.svg">
+</p>
+
+<p align="center">
+    <a href="#gear-getting-start">Getting Start</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+    <a href="#commands">Commands</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+    <a href="#balance_scale-license">License</a>
+</p>
+
+Create pools. Front-end project application made in **10ª edition Next Level Week: Copa** event by Rocketseat during October of the 2022 (31/10 - 04/11).
+
+## :gear: Getting Started
+
+```Bash
+# Run application
 npm run dev
-# or
-yarn dev
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+<br>
 
-You can start editing the page by modifying `pages/index.tsx`. The page auto-updates as you edit the file.
+## Commands
 
-[API routes](https://nextjs.org/docs/api-routes/introduction) can be accessed on [http://localhost:3000/api/hello](http://localhost:3000/api/hello). This endpoint can be edited in `pages/api/hello.ts`.
+```Bash
+# Create project
+npx create-next-app@latest --use-npm
+```
+<br>
 
-The `pages/api` directory is mapped to `/api/*`. Files in this directory are treated as [API routes](https://nextjs.org/docs/api-routes/introduction) instead of React pages.
+## :balance_scale: License
 
-## Learn More
+This project is under the MIT license. See the [LICENSE](https://github.com/gbdsantos/reactjs-rocketseat-nlw-copa/blob/master/LICENSE) for more information.
 
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+---
+Made with ♥ by :man_astronaut: Guilherme Bezerra :wave: [Get in touch!](https://www.linkedin.com/in/gbdsantos/)
