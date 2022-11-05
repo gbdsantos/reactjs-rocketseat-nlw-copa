@@ -47,6 +47,9 @@ npm run dev
 ```Bash
 # Create project
 npx create-next-app@latest --use-npm
+
+# Init tailwindcss
+npx tailwindcss init -p
 ```
 <br>
 
